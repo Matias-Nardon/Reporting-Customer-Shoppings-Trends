@@ -17,7 +17,7 @@ Cojunto de Datos descargado de Kaggle, archivo: `shopping_trends_updated.csv`, [
 ## 📶 Análisis en Python fundamental para comprender la naturaleza de los datos, detectar posibles errores o inconsistencias, y tomar decisiones informadas en el proceso de análisis y modelado. 
 
 
-Puede visualizar el archivo detallado realizado en Jupyter Notebook con Código Python: [Analysis Customer Shopping Trends.ipynb](https://github.com/Matias-Nardon/Reporting-Customer-Shoppings-Trends/blob/main/Analysis%20Customer%20Shopping%20Trends.ipynb)
+Puede visualizar el archivo detallado realizado en Jupyter Notebook con Código Python: [Analysis Customer Shopping Trends.ipynb](https://github.com/Matias-Nardon/Reporting-Customer-Shoppings-Trends/blob/main/Analysis%20Customer%20Shopping%20Trends.ipynb) 
 Donde se realizó:
 - Análisis de la Calidad de los Datos: (Cantidad de registros y columnas, Conocer información de los datos, Tipos de datos para cada columna, Suma de valores nulos por columna, Verificar si hay duplicados:
 - Análisis Estadístico: El número de valores no nulos en la columna, La media aritmética, La desviación estándar, El valor mínimo, El primer cuartil (percentil 25), La mediana (percentil 50), El tercer cuartil (percentil 75), El valor máximo, La Mediana (El valor central de los datos cuando están ordenados), La Varianza (Una medida de dispersión de los datos respecto a su media), El Rango (La diferencia entre el valor máximo y mínimo) y la Moda (El valor que más se repite en los datos).
@@ -29,7 +29,7 @@ Donde se realizó:
 Dashboard interactivo para conocer la edad promedio de los clientes, el género que mas realiza compras, los ingresos y descuentos, los métodos de pago preferidos, la frecuencia de las compras por temporadas, categorias y articulos, los metodos de envios mas requeridos. Comprender estas preferencias y tendencias es esencial para que las empresas adapten sus productos y estrategias de manera más efectiva!
 
 Puede visualizar el dashboard realizado en Power Bi: 
-[Reporting Analysis Customer Shopping Trends]([https://github.com/Matias-Nardon/Reporting-Customer-Shoppings-Trends/blob/main/portada.JPG](https://app.powerbi.com/view?r=eyJrIjoiNTI3MWQwOTAtOGY2OC00NjAzLTk3YzEtZTAyODY4YjQ2OWMzIiwidCI6IjU3NzE3ODA5LWQwYzQtNDliYS05MjIxLWI1ZGRmZGJiZjRhMSIsImMiOjR9))
+[Reporting Analysis Customer Shopping Trends](https://app.powerbi.com/view?r=eyJrIjoiNTI3MWQwOTAtOGY2OC00NjAzLTk3YzEtZTAyODY4YjQ2OWMzIiwidCI6IjU3NzE3ODA5LWQwYzQtNDliYS05MjIxLWI1ZGRmZGJiZjRhMSIsImMiOjR9)
 
 ![Reporting Analysis Customer Shopping Trends](https://github.com/user-attachments/assets/1cfa53c8-e3ad-4585-b0a2-81a814340682)
 
