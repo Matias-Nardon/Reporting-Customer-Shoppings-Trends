@@ -32,7 +32,7 @@ Dashboard interactivo para conocer la edad promedio de los clientes, el género 
 Puede visualizar el dashboard realizado en Power Bi: 
 [Reporting Analysis Customer Shopping Trends](https://app.powerbi.com/view?r=eyJrIjoiNTI3MWQwOTAtOGY2OC00NjAzLTk3YzEtZTAyODY4YjQ2OWMzIiwidCI6IjU3NzE3ODA5LWQwYzQtNDliYS05MjIxLWI1ZGRmZGJiZjRhMSIsImMiOjR9)
 
-![Reporting Analysis Customer Shopping Trends](![tablero](https://github.com/user-attachments/assets/a415dd9c-2462-4e93-a602-24dc0ca78426))
+![Reporting Analysis Customer Shopping Trends]![tablero](https://github.com/user-attachments/assets/a415dd9c-2462-4e93-a602-24dc0ca78426)
 
 Panel de filtros (con boton para mostrar/ocultar)
 ![image](https://github.com/user-attachments/assets/74b39b10-b4cb-4017-bc54-a445ef68f322)
