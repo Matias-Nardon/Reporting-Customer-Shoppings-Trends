@@ -18,6 +18,7 @@ Cojunto de Datos descargado de Kaggle, archivo: `shopping_trends_updated.csv`, [
 
 
 Puede visualizar el archivo detallado realizado en Jupyter Notebook con Código Python: [Analysis Customer Shopping Trends.ipynb](https://github.com/Matias-Nardon/Reporting-Customer-Shoppings-Trends/blob/main/Analysis%20Customer%20Shopping%20Trends.ipynb) 
+
 Donde se realizó:
 - Análisis de la Calidad de los Datos: (Cantidad de registros y columnas, Conocer información de los datos, Tipos de datos para cada columna, Suma de valores nulos por columna, Verificar si hay duplicados:
 - Análisis Estadístico: El número de valores no nulos en la columna, La media aritmética, La desviación estándar, El valor mínimo, El primer cuartil (percentil 25), La mediana (percentil 50), El tercer cuartil (percentil 75), El valor máximo, La Mediana (El valor central de los datos cuando están ordenados), La Varianza (Una medida de dispersión de los datos respecto a su media), El Rango (La diferencia entre el valor máximo y mínimo) y la Moda (El valor que más se repite en los datos).
