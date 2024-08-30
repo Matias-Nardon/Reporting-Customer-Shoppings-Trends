@@ -33,12 +33,15 @@ Puede visualizar el dashboard realizado en Power Bi:
 [Reporting Analysis Customer Shopping Trends](https://app.powerbi.com/view?r=eyJrIjoiNTI3MWQwOTAtOGY2OC00NjAzLTk3YzEtZTAyODY4YjQ2OWMzIiwidCI6IjU3NzE3ODA5LWQwYzQtNDliYS05MjIxLWI1ZGRmZGJiZjRhMSIsImMiOjR9)
 
 Dashboard principal para informar sobre las tendencias de compras de los clientes:
-![tablero](https://github.com/user-attachments/assets/a415dd9c-2462-4e93-a602-24dc0ca78426)
 
-Panel de filtros (con boton para mostrar/ocultar)_
-![filtros](https://github.com/user-attachments/assets/2a613741-c718-4b29-8f04-5611c78e4c2b)
+![TABLERO PRINCIPAL](https://github.com/user-attachments/assets/7bd23e7d-37c8-461e-baac-86f7637b1657)
+
+Panel de filtros (con boton para mostrar/ocultar):
+
+![PANEL DE FILTROS AZUL](https://github.com/user-attachments/assets/60243a9d-a2f8-4019-9371-9e5bfc3ad83c)
 
 Portada con botón de ingreso al Dashboard y links de accesos a LinkedIn y GitHub:
+
 ![portada](https://github.com/user-attachments/assets/97ce0e4d-40a4-44ba-8340-efe4931df577)
 
 ## ⚙️ Herramientas utilizadas: 
